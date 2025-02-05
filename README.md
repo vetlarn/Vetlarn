@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Java, MySQL and Web development!
+- 🌱 I’m currently studying Computer Science!
 <!--
 **vetlarn/Vetlarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
