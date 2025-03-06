@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying Computer Science!
+- 🌱 I’m currently studying for a Bachelor in Information Systems.
 <!--
 **vetlarn/Vetlarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
